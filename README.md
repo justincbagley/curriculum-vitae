@@ -10,4 +10,4 @@ You may also view this CV on the CV page of my website, [here](https://justinbag
 
 **Acknowledgements**
 
-> This code was modified from code forked from Niema Moshiri's <a href="https://github.com/niemasd/curriculum-vitae">curriculum-vitae</a> repository on GitHub, which he currently uses and updates. Many thanks to Niema for making this code publicly available for forking on GitHub!! It has been very useful to me.
+> This code was modified from code forked from <a href="https://niema.net">Niema Moshiri's</a> <a href="https://github.com/niemasd/curriculum-vitae">curriculum-vitae</a> repository on GitHub, which he currently uses and updates. Many thanks to Niema for making this code publicly available for forking on GitHub!! It has been very useful to me.
