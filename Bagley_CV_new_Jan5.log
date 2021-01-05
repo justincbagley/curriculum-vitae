@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JAN 2021 10:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JAN 2021 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Bagley_CV_new_Jan4.tex
-(./Bagley_CV_new_Jan4.tex
+**Bagley_CV_new_Jan5.tex
+(./Bagley_CV_new_Jan5.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./res.cls
@@ -240,7 +240,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box30
 \enitdp@description=\count106
 )
-No file Bagley_CV_new_Jan4.aux.
+No file Bagley_CV_new_Jan5.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
@@ -360,67 +360,77 @@ FP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 661--703
+Underfull \hbox (badness 10000) in paragraph at lines 661--705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 661--703
+Underfull \hbox (badness 10000) in paragraph at lines 661--705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 661--703
+Underfull \hbox (badness 10000) in paragraph at lines 661--705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 661--703
+Underfull \hbox (badness 10000) in paragraph at lines 661--705
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--705
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--705
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 709--733
+Underfull \hbox (badness 10000) in paragraph at lines 711--735
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--733
+Underfull \hbox (badness 10000) in paragraph at lines 711--735
 
  []
 
 [9]
-Underfull \hbox (badness 2951) in paragraph at lines 775--776
+Underfull \hbox (badness 2951) in paragraph at lines 777--778
 []|[]\OT1/cmr/m/it/10 Conservation Field Trip[], []Desert Springs Ac-tion Com-m
 it-tee
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 804--812
+Underfull \hbox (badness 10000) in paragraph at lines 806--814
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 813--821
+Underfull \hbox (badness 10000) in paragraph at lines 815--823
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 822--830
+Underfull \hbox (badness 10000) in paragraph at lines 824--832
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--838
+Underfull \hbox (badness 10000) in paragraph at lines 833--840
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 854.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 856.
 [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 854.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 854.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 854.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 854.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 856.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 856.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 856.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 856.
  ) 
 Here is how much of TeX's memory you used:
  5746 strings out of 493089
@@ -440,7 +450,7 @@ r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Bagley_CV_new_Jan4.pdf (11 pages, 413431 bytes).
+Output written on Bagley_CV_new_Jan5.pdf (11 pages, 413430 bytes).
 PDF statistics:
  217 PDF objects out of 1000 (max. 8388607)
  179 compressed objects within 2 object streams
